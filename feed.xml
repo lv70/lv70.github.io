@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Lucy Ventura Video Editor</title>
+    <title>Lucy V - Video editor</title>
     <link href="https://lv70.github.io/feed.xml" rel="self" />
     <link href="https://lv70.github.io" />
-    <updated>2023-04-06T16:55:07+01:00</updated>
+    <updated>2023-04-06T17:22:35+01:00</updated>
     <author>
-        <name>Lucy Ventura</name>
+        <name>Lucy V</name>
     </author>
     <id>https://lv70.github.io</id>
 
     <entry>
         <title>About</title>
         <author>
-            <name>Lucy Ventura</name>
+            <name>Lucy V</name>
         </author>
         <link href="https://lv70.github.io/about.html"/>
         <id>https://lv70.github.io/about.html</id>
 
-        <updated>2023-04-06T16:55:07+01:00</updated>
+        <updated>2023-04-06T17:22:35+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

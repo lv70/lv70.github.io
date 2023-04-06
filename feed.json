@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Lucy Ventura Video Editor",
+    "title": "Lucy V - Video editor",
     "description": "",
     "home_page_url": "https://lv70.github.io",
     "feed_url": "https://lv70.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Lucy Ventura"
+        "name": "Lucy V"
     },
     "items": [
         {
@@ -15,12 +15,12 @@
             "title": "About",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
-                "name": "Lucy Ventura"
+                "name": "Lucy V"
             },
             "tags": [
             ],
-            "date_published": "2023-04-06T16:55:07+01:00",
-            "date_modified": "2023-04-06T16:55:07+01:00"
+            "date_published": "2023-04-06T17:22:35+01:00",
+            "date_modified": "2023-04-06T17:22:35+01:00"
         }
     ]
 }
